@@ -1,9 +1,9 @@
 📺 HridoyTV — The Home of Live TV
 
 <p align="center">
-  <img src="hridoytv-home.jpg" width="250">
-  <img src="hridoytv-favs.jpg" width="250">
-  <img src="hridoytv-profile.jpg" width="250">
+  <img src="/hridoytv-home.png" width="250">
+  <img src="hridoytv-favs.png" width="250">
+  <img src="hridoytv-profile.png" width="250">
 </p>
 
 HridoyTV is a modern and user-friendly live television streaming platform that lets you watch your favorite TV channels anytime, anywhere. Designed for speed, simplicity, and convenience, HridoyTV brings live entertainment directly to your device.
