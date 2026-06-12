@@ -1,8 +1,8 @@
 📺 HridoyTV — The Home of Live TV
 
 <p align="center"><img src="hridoytv logo - h.png" width="45%"></p><p align="center">
-  <img src="hridoytv-home.png" width="40%">
-  <img src="hridoytv-channel.jpg" width="60%">
+  <img src="hridoytv-home.png" width="35%">
+  <img src="hridoytv-channel.jpg" width="50%">
 </p>
 
 HridoyTV V1.0 (Latest)
