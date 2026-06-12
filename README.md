@@ -4,10 +4,13 @@
   <img src="hridoytv-home.png" width="40%">
   <img src="hridoytv-channel.jpg" width="60%">
 </p>
-🔗 Links
+🔗 Quick Links
 
-- 🌐 Website: https://hridoytv.top
-- 📥 Download App: https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk
+<p align="center">
+  🌐 <a href="https://hridoytv.top"><strong>Visit Website</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📥 <a href="https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk"><strong>Download APK</strong></a>
+</p>
 
 HridoyTV is a modern and user-friendly live television streaming platform that lets you watch your favorite TV channels anytime, anywhere. Designed for speed, simplicity, and convenience, HridoyTV brings live entertainment directly to your device.
 
