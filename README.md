@@ -2,7 +2,7 @@
 
 <p align="center"><img src="hridoytv logo - h.png" width="200"></p><p align="center">
   <img src="hridoytv-home.png" width="130">
-  <img src="hridoytv-channels.jpg" width="130">
+  <img src="hridoytv-channels.png" width="130">
 </p>
 
 HridoyTV V1.0 (Latest)
