@@ -13,41 +13,42 @@ HridoyTV V1.0 (Latest)
 <p align="center">
   🌐 <a href="https://hridoytv.top"><strong>Visit Website</strong></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  📥 <a href="https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk"><strong>Download APK</strong></a>
+  📥 <a href="https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk"><strong>Download Mobile APK</strong></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  📺 <a href="https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%20Live%201.0.apk"><strong>Download Android TV APK</strong></a>
 </p>
 
 
 
-HridoyTV is a modern and user-friendly live television streaming platform that lets you watch your favorite TV channels anytime, anywhere. Designed for speed, simplicity, and convenience, HridoyTV brings live entertainment directly to your device.
+HridoyTV is a modern and user-friendly live television streaming platform that lets you watch your favorite TV channels anytime, anywhere. Designed for speed, simplicity, and convenience, HridoyTV brings live entertainment directly to your devices—now fully optimized for both mobile and Android TV screens.
 
 ✨ Features
 
 📡 Watch Live TV
-
 Stream popular local and international TV channels in real time.
 
-🔓 Free & Pro Channels
+🔓 100% Free Premium Channels
+Enjoy unrestricted access to all channels, including premium content, completely free of cost. No subscription or pro membership required.
 
-Enjoy a collection of free channels available to everyone, with access to exclusive premium channels for Pro members.
+🚫 No Login Required
+Skip the hassle of registration. No sign-up, email, or Google authentication needed—just open the app and start streaming instantly.
 
 🎨 Clean & Simple Interface
-
 A modern, lightweight, and easy-to-use design that provides a smooth viewing experience.
 
+📺 Dedicated Android TV App
+Enjoy a seamless big-screen experience with our brand-new, fully optimized app designed specifically for Android TV and smart TV boxes.
+
 📱 Multi-Device Support
-
-Watch seamlessly across smartphones, smart tv, tablets, laptops, and desktop devices.
-
-🔐 Easy Authentication
-
-Sign in using Google or Email to securely save your profile, preferences, and viewing experience.
+Watch seamlessly across smartphones, smart TVs, tablets, laptops, and desktop devices.
 
 🚀 Why HridoyTV?
 
 - Fast and reliable streaming
 - Modern responsive design
-- Secure user authentication
-- Easy channel access
+- Dedicated Android TV support
+- Completely free with no account required
+- Instant channel access
 - Works across multiple devices
 
 ---
