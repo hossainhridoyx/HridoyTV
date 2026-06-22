@@ -16,9 +16,9 @@
 
 * 🌐 **Official Website:** [hridoytv.top](https://hridoytv.top)
 * 📱 **Mobile App:** [Download Mobile APK](https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk)
-* web: hridoytv.pages.dev
+* web: [hridoytv.pages.dev](hridoytv.pages.dev)
 * 📺 **Android TV App:** [Download Android TV APK](https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%20Live%201.0.apk)
-* web: hridoytvlive.pages.dev
+* web: [hridoytvlive.pages.dev](hridoytvlive.pages.dev)
 
 ---
 
