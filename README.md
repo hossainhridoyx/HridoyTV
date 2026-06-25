@@ -8,16 +8,16 @@
   <img src="hridoytv-channels.png" width="130" alt="Channels Screen">
 </p>
 
-<p align="center"><strong>HridoyTV V1.0 (Latest)</strong></p>
+<p align="center"><strong>HridoyTV V1.1 (Latest)</strong></p>
 
 ---
 
 ### 🔗 Quick Links
 
 * 🌐 **Official Website:** [hridoytv.top](https://hridoytv.top)
-* 📱 **Mobile App:** [Download Mobile APK](https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%201.0.apk)
+* 📱 **Mobile App:** [Download Mobile APK](https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/New%20HridoyTV%20App/HridoyTV%201.1.apk)
 * web: [hridoytv.pages.dev](https://hridoytv.pages.dev)
-* 📺 **Android TV App:** [Download Android TV APK](https://github.com/hossainhridoyx/HridoyTV/raw/refs/heads/main/HridoyTV%20Live%201.0.apk)
+* 📺 **Android TV App:** [Download Android TV APK](https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/New%20HridoyTV%20App/HridoyTV%20Live%201.1.apk)
 * web: [hridoytvlive.pages.dev](https://hridoytvlive.pages.dev)
 
 ---
