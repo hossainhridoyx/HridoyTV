@@ -24,22 +24,22 @@
 
 ### ✨ Features
 
-📡 **Watch 200+ Live TV-**
+📡 **Watch 200+ Live TV -**
 Stream popular local and international 200+ TV channels in real time.
 
-🔓 **100% Free Premium Channels-**
+🔓 **100% Free Premium Channels -**
 Enjoy unrestricted access to all channels, including premium content, completely free of cost. No subscription or pro membership required.
 
-🚫 **No Login Required-**
+🚫 **No Login Required -**
 Skip the hassle of registration. No sign-up, email, or Google authentication needed—just open the app and start streaming instantly.
 
-🎨 **Clean & Simple interface-**
+🎨 **Clean & Simple interface -**
 A modern, lightweight, and easy-to-use design that provides a smooth viewing experience.
 
-📺 **Dedicated Android TV App-**
+📺 **Dedicated Android TV App -**
 Enjoy a seamless big-screen experience with our brand-new, fully optimized app designed specifically for Android TV and smart TV boxes.
 
-📱 **Multi-Device Support**
+📱 **Multi-Device Support -**
 Watch seamlessly across smartphones, smart TVs, tablets, laptops, and desktop devices.
 
 ---
