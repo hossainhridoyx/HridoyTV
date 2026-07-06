@@ -24,8 +24,8 @@
 
 ### ✨ Features
 
-📡 **Watch Live TV**
-Stream popular local and international TV channels in real time.
+📡 **Watch 200+ Live TV**
+Stream popular local and international 200+ TV channels in real time.
 
 🔓 **100% Free Premium Channels**
 Enjoy unrestricted access to all channels, including premium content, completely free of cost. No subscription or pro membership required.
