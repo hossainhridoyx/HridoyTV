@@ -24,7 +24,7 @@
 
 ### ✨ Features
 
-📡 **Watch 200+ Live TV**
+📡 **Watch Live TV**
 Stream popular local and international 200+ TV channels in real time.
 
 🔓 **100% Free Premium Channels**
