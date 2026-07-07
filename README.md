@@ -14,10 +14,10 @@
 ## 🔗 Quick Links
 
 - 🌐 **HridoyTV portal:** [hridoytv.top](https://hridoytv.top)
-- 📱 **Mobile+PC (Emulator) App:** [Download App](https://github.com/hossainhridoyx/HridoyTV/releases/download/v1.2/HridoyTV.v1.2.apk)
-- 💻 **Website:** [hridoytv.pages.dev](https://hridoytv.pages.dev)
+- 📱🖥️ **Mobile+PC (Emulator) App:** [Download App](https://github.com/hossainhridoyx/HridoyTV/releases/download/v1.2/HridoyTV.v1.2.apk)
+- 🌐 **Website:** [hridoytv.pages.dev](https://hridoytv.pages.dev)
 - 📺 **Smart TV App:** [Download TV App](https://raw.githubusercontent.com/hossainhridoyx/HridoyTV/main/New%20HridoyTV%20App/HridoyTV%20Live%201.1.apk)
-- 📺 **Website:** [hridoytvlive.pages.dev](https://hridoytvlive.pages.dev)
+- 🌐 **Website:** [hridoytvlive.pages.dev](https://hridoytvlive.pages.dev)
 
 ---
 
@@ -49,7 +49,7 @@
 | Platform | Version |
 |----------|---------|
 | 📱 Android Mobile + PC (Emulator) | **HridoyTV v1.2** |
-| 📺 Android TV | **HridoyTV Live v1.1** |
+| 📺 Android Smart TV | **HridoyTV Live v1.1** |
 
 ---
 
