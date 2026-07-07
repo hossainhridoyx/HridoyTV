@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>📱 For Android Mobile + PC (Emulator): HridoyTV v1.2</strong><br>
+  <strong>📱🖥️ For Android Mobile + PC (Emulator): HridoyTV v1.2</strong><br>
   <strong>📺 For Smart TV: HridoyTV Live v1.1</strong>
 </p>
 
@@ -28,7 +28,7 @@
 - 🚫 No login or registration required.
 - 🎨 Clean, modern, and user-friendly interface.
 - 📺 Dedicated Android TV app.
-- 📱 Supports Android phones, tablets, PC (Android Emulator), and Android TV.
+- 💻🖥️📱 Supports Android phones, tablets, PC (Android Emulator), and Android TV.
 - ⚡ Fast, smooth, and reliable streaming.
 
 ---
@@ -48,7 +48,7 @@
 
 | Platform | Version |
 |----------|---------|
-| 📱 Android Mobile + PC (Emulator) | **HridoyTV v1.2** |
+| 🖥️📱 Android Mobile + PC (Emulator) | **HridoyTV v1.2** |
 | 📺 Android Smart TV | **HridoyTV Live v1.1** |
 
 ---
